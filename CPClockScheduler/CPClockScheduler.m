@@ -15,7 +15,7 @@ NSString *const kTick = @"tick";
 NSString *const kStart = @"start";
 NSString *const kStop = @"stop";
 
-NSString *const kBlock = @"stop";
+NSString *const kBlock = @"block";
 NSString *const kTime = @"stop";
 
 @implementation CPClockScheduler {
